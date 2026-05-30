@@ -9,6 +9,10 @@
 
 A curated list of awesome Studio Ghibli resources, projects, and images.
 
+## Acknowledgements
+
+Special thanks to the original [awesome-studio-ghibli-works-images](https://github.com/awesomedevnotes/awesome-studio-ghibli-works-images) repository by [@awesomedevnotes](https://github.com/awesomedevnotes), which inspired this complete and updated collection.
+
 ## Studio Ghibli Official Works Images
 
 This is a complete collection of all high-resolution still images officially released by Studio Ghibli for free use within the bounds of common sense.

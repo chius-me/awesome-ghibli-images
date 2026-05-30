@@ -9,6 +9,10 @@
 
 精选的吉卜力工作室资源、项目和图片合集。
 
+## 鸣谢
+
+特别感谢 [@awesomedevnotes](https://github.com/awesomedevnotes) 创建的 [awesome-studio-ghibli-works-images](https://github.com/awesomedevnotes/awesome-studio-ghibli-works-images) 仓库，该项目为这份最新、最全的吉卜力官方图库合集提供了最初的灵感。
+
 ## 吉卜力官方全作品高清剧照
 
 这里收录了吉卜力工作室官方发布的全部高清剧照（在常识范围内可自由使用）。
