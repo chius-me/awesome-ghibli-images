@@ -2,7 +2,7 @@
   <a href="./README.md">English</a> | 简体中文
 </p>
 
-# Awesome Ghibli
+# Awesome Ghibli Images
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
