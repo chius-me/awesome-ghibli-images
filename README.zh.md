@@ -16,10 +16,10 @@
 
 ### 目录（按年份排序）
 
-- [(2023) 苍鹭与少年 (君たちはどう生きるか)](#kimitachi)
+- [(2023) 你想活出怎样的人生 (君たちはどう生きるか)](#kimitachi)
 - [(2020) 安雅与魔女 (アーヤと魔女)](#aya)
 - [(2016) 红海龟 (レッドタートル ある島の物語)](#red-turtle)
-- [(2014) 记忆中的玛妮 (思い出のマーニー)](#marnie)
+- [(2014) 回忆中的玛妮 (思い出のマーニー)](#marnie)
 - [(2013) 辉夜姬物语 (かぐや姫の物語)](#kaguyahime)
 - [(2013) 起风了 (風立ちぬ)](#kazetachinu)
 - [(2011) 虞美人盛开的山坡 (コクリコ坂から)](#kokurikozaka)
@@ -28,12 +28,12 @@
 - [(2006) 地海战记 (ゲド戦記)](#ged)
 - [(2004) 哈尔的移动城堡 (ハウルの動く城)](#howl)
 - [(2002) 猫的报恩 (猫の恩返し)](#baron)
-- [(2002) 吉卜力ies episode2 (ギブリーズ episode2)](#ghiblies)
+- [(2002) 吉卜力动画：第二集 (ギブリーズ episode2)](#ghiblies)
 - [(2001) 千与千寻 (千と千尋の神隠し)](#chihiro)
-- [(1999) 我的邻居山田君 (ホーホケキョ となりの山田くん)](#yamada)
+- [(1999) 邻居山田君 (ホーホケキョ となりの山田くん)](#yamada)
 - [(1997) 幽灵公主 (もののけ姫)](#mononoke)
 - [(1995) 侧耳倾听 (耳をすませば)](#mimi)
-- [(1995) 恰克与飞鸟 (On Your Mark)](#onyourmark)
+- [(1995) On Your Mark (On Your Mark)](#onyourmark)
 - [(1994) 百变狸猫 (平成狸合戦ぽんぽこ)](#tanuki)
 - [(1993) 听到涛声 (海がきこえる)](#umi)
 - [(1992) 红猪 (紅の豚)](#porco)
@@ -43,7 +43,7 @@
 - [(1986) 天空之城 (天空の城ラピュタ)](#laputa)
 - [(1984) 风之谷 (風の谷のナウシカ)](#nausicaa)
 
-### <a id="kimitachi"></a>(2023) 苍鹭与少年 (君たちはどう生きるか)
+### <a id="kimitachi"></a>(2023) 你想活出怎样的人生 (君たちはどう生きるか)
 
 - **官网:** [http://www.ghibli.jp/kimitachi/](http://www.ghibli.jp/kimitachi/)
 - **官方图库:** [http://www.ghibli.jp/works/kimitachi/](http://www.ghibli.jp/works/kimitachi/)
@@ -322,7 +322,7 @@
 </table>
 
 
-### <a id="marnie"></a>(2014) 记忆中的玛妮 (思い出のマーニー)
+### <a id="marnie"></a>(2014) 回忆中的玛妮 (思い出のマーニー)
 
 - **官网:** [http://www.ghibli.jp/marnie/](http://www.ghibli.jp/marnie/)
 - **官方图库:** [http://www.ghibli.jp/works/marnie/](http://www.ghibli.jp/works/marnie/)
@@ -1159,7 +1159,7 @@
 </table>
 
 
-### <a id="ghiblies"></a>(2002) 吉卜力ies episode2 (ギブリーズ episode2)
+### <a id="ghiblies"></a>(2002) 吉卜力动画：第二集 (ギブリーズ episode2)
 
 - **官网:** [http://www.ghibli.jp/ghiblies/](http://www.ghibli.jp/ghiblies/)
 - **官方图库:** [http://www.ghibli.jp/works/ghiblies/](http://www.ghibli.jp/works/ghiblies/)
@@ -1345,7 +1345,7 @@
 </table>
 
 
-### <a id="yamada"></a>(1999) 我的邻居山田君 (ホーホケキョ となりの山田くん)
+### <a id="yamada"></a>(1999) 邻居山田君 (ホーホケキョ となりの山田くん)
 
 - **官网:** [http://www.ghibli.jp/yamada/](http://www.ghibli.jp/yamada/)
 - **官方图库:** [http://www.ghibli.jp/works/yamada/](http://www.ghibli.jp/works/yamada/)
@@ -1624,7 +1624,7 @@
 </table>
 
 
-### <a id="onyourmark"></a>(1995) 恰克与飞鸟 (On Your Mark)
+### <a id="onyourmark"></a>(1995) On Your Mark (On Your Mark)
 
 - **官网:** [http://www.ghibli.jp/onyourmark/](http://www.ghibli.jp/onyourmark/)
 - **官方图库:** [http://www.ghibli.jp/works/onyourmark/](http://www.ghibli.jp/works/onyourmark/)
